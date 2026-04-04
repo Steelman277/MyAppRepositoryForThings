@@ -1,0 +1,29 @@
+{
+  "name": "myapprepositoryforthings",
+  "version": "1.0.0",
+  "description": "creating my own web app to help figure out node js more",
+  "keywords": [
+    "web",
+    "app"
+  ],
+  "homepage": "https://github.com/Steelman277/MyAppRepositoryForThings#readme",
+  "bugs": {
+    "url": "https://github.com/Steelman277/MyAppRepositoryForThings/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steelman277/MyAppRepositoryForThings.git"
+  },
+  "license": "ISC",
+  "author": "Caleb H",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "db": "^6.0.3",
+    "lucide-react": "^1.7.0",
+    "mongo": "^0.1.0"
+  }
+}
