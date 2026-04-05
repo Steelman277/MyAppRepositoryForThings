@@ -28,6 +28,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "db": "^6.0.3",
+    "express": "^5.2.1",
     "lucide-react": "^1.7.0",
     "mongo": "^0.1.0",
     "nodemailer": "^8.0.4",
@@ -41,6 +42,7 @@
     "@tailwindcss/cli": "^4.2.2",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
+    "nodemon": "^3.1.14",
     "tailwindcss": "^4.2.2"
   },
   "directories": {
