@@ -19,4 +19,8 @@ const HomePage = () => {
                         <h2 className='text-2xl font-semibold'>Create a New Agent</h2>
                     </CardHeader>
                     </Card>
-                    )
+                    </div>
+                    </div>
+                    
+                    )}
+                    
